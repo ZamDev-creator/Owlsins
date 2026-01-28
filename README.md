@@ -97,7 +97,7 @@ Intermediate level    →  Advanced level
 ### 🔍 Intelligence Gathering
 
 #### 1. **Username Hunter**
-- Search across 350+ platforms simultaneously
+- Search across platforms 
 - Advanced profile verification with heuristics
 - Bio extraction and social media detection
 - Deep content analysis
