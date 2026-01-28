@@ -259,8 +259,8 @@ Factors:
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/owl-osint.git
-cd owl-osint
+git clone https://github.com/ZamDev-creator/Owlsins
+cd Owlsins
 
 # Run automated installer
 chmod +x install.sh
