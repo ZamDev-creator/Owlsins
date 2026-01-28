@@ -959,14 +959,14 @@ Vote for features on our [GitHub Discussions](https://github.com/yourusername/ow
 2. **FAQ**: See [FAQ.md](FAQ.md)
 3. **Issues**: Search [GitHub Issues](https://github.com/yourusername/owl-osint/issues)
 4. **Discussions**: Join [GitHub Discussions](https://github.com/yourusername/owl-osint/discussions)
-5. **Email**: support@example.com
+
 
 ### Community
 
-- **Discord**: [Join our server](#)
-- **Telegram**: [@owl_osint](#)
-- **Twitter**: [@owl_osint](#)
-- **Reddit**: [r/owl_osint](#)
+- **Discord**: [-](#)
+- **Telegram**: [https://t.me/azm101222](#)
+- **Twitter/X**: [-](#)
+- **Reddit**: [-](#)
 
 ### Professional Support
 
@@ -980,25 +980,14 @@ Contact: enterprise@example.com
 
 ---
 
-## 📊 Statistics
-
-```
-⭐ GitHub Stars: [Badge]
-🔄 Forks: [Badge]
-👥 Contributors: [Badge]
-📝 Commits: [Badge]
-📦 Downloads: [Badge]
-```
-
----
 
 ## 🏆 Credits
 
 ### Core Team
 
-- **Lead Developer**: [Your Name]
-- **Intelligence System**: [Your Name]
-- **Documentation**: [Your Name]
+- **Lead Developer**: [Zam]
+- **Intelligence System**: [Zam]
+- **Documentation**: [Zam]
 
 ### Contributors
 
@@ -1055,9 +1044,9 @@ If you use OWL OSINT in research, please cite:
 ```bibtex
 @software{owl_osint_2026,
   title = {OWL OSINT Suite: Advanced Open Source Intelligence Toolkit},
-  author = {Your Name},
+  author = {zam},
   year = {2026},
-  url = {https://github.com/yourusername/owl-osint},
+  url = {--},
   version = {2.0.0}
 }
 ```
@@ -1072,6 +1061,6 @@ If you use OWL OSINT in research, please cite:
 
 [⬆ Back to Top](#-owl-osint-suite)
 
-Made with ❤️ by the OSINT community
+Made with ❤️ by Zam
 
 </div>
