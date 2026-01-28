@@ -835,7 +835,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/owl-osint.git
+git clone https://github.com/ZamDev-creator/Owlsins
 cd owl-osint
 
 # Create dev environment
@@ -947,7 +947,7 @@ Found a security vulnerability? Please email: security@example.com
 
 ### Community Requests
 
-Vote for features on our [GitHub Discussions](https://github.com/yourusername/owl-osint/discussions)
+Vote for features on our [GitHub Discussions](https://github.com/ZamDev-creator/Owlsins/discussions)
 
 ---
 
@@ -957,8 +957,8 @@ Vote for features on our [GitHub Discussions](https://github.com/yourusername/ow
 
 1. **Documentation**: Check [docs/](docs/) folder
 2. **FAQ**: See [FAQ.md](FAQ.md)
-3. **Issues**: Search [GitHub Issues](https://github.com/yourusername/owl-osint/issues)
-4. **Discussions**: Join [GitHub Discussions](https://github.com/yourusername/owl-osint/discussions)
+3. **Issues**: Search [GitHub Issues](/issues)
+4. **Discussions**: Join [GitHub Discussions](https://github.com/ZamDev-creator/Owlsins/discussions)
 
 
 ### Community
@@ -976,7 +976,7 @@ Enterprise support available:
 - Training sessions
 - Consulting services
 
-Contact: enterprise@example.com
+Contact: https://t.me/azm101222
 
 ---
 
